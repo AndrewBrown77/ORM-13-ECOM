@@ -1,6 +1,5 @@
 # mod-13-yep
-orm challenge 
- However, the lack of a README is a notable omission, as it’s essential for understanding the project setup and usage. Once a README is added, providing a clear description of the application and a link to a walkthrough video, it will make your project more comprehensive and user-friendly. Great work overall, with room to improve on documentation!
+orm challenge  a clear description of the application and a link to a walkthrough video
 
 Description:
 AS A manager at an internet retail company
