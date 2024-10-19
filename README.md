@@ -1,3 +1,1 @@
-
-You’ve done an impressive job on the technical aspects of the challenge, particularly with the Sequelize models and the routes for GET, POST, and PUT operations, which are well-implemented and match the challenge instructions. The structure and commit history of the repository also show good organization and attention to best practices. However, the lack of a README is a notable omission, as it’s essential for understanding the project setup and usage. Once a README is added, providing a clear description of the application and a link to a walkthrough video, it will make your project more comprehensive and user-friendly. Great work overall, with room to improve on documentation!
-Central Grader , Sep 16 at 2:08am
+Once a README is added, providing a clear description of the application and a link to a walkthrough video, it will make your project more comprehensive and user-friendly
